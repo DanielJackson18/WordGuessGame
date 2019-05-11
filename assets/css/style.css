@@ -1,0 +1,96 @@
+
+body {
+    background-image: url("https://i.pinimg.com/originals/d8/e4/e9/d8e4e9d895528d14468ff9d77109c732.png");
+    background-size: 25%;
+}
+
+.heading {
+    
+    background-image: url("https://ih0.redbubble.net/image.576009558.0325/pp,550x550.u1.jpg");
+    background-size: 150px;
+    
+    
+    border: solid 5px blue;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding: 70px;
+   
+}
+
+h2 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+img {
+    margin: 10px;
+}
+
+
+.sidebar {
+    padding: 5px;
+    position: relative;
+    border-top: solid rgb(0, 89, 255) 2px;
+    border-bottom: solid rgb(0, 89, 255) 2px;
+    margin-bottom: 5px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+}
+
+span {
+    border: solid red 2px;
+    padding-left: 3px;
+    padding-right:3px;
+    background-color: yellow; 
+    font-size: 15px;
+}
+
+.background {
+    background-image: url("http://images.fanpop.com/images/image_uploads/Saved-By-The-Bell-saved-by-the-bell-546396_800_600.jpg");
+    background-size: 500px;
+    border: solid rgb(0, 89, 255) 5px;
+
+}
+
+.container {
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 5px;
+    text-align: center;
+    border: solid rgb(0, 89, 255) 3px;
+}
+
+#currentWord {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#scoreboard {
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
